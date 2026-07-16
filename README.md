@@ -1,4 +1,3 @@
-# Start-here
 # Start here
 
 New to the Lab, or opening one of our builds for the first time? You do not need to
