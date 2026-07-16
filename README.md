@@ -17,27 +17,14 @@ through setup one step at a time.
 - A place to ask questions as you go. If something is unclear, ask Claude to slow
   down or explain it a different way.
 
-## Built something? Share it with the Lab
-
-Made a tool you want other members to see? It stays on your own GitHub account —
-the Lab just points to it. To get it listed:
-
-1. Start from our template. Open
-   [member-repo-template](https://github.com/AI-Lab-for-Accountants/member-repo-template),
-   click **Use this template**, and create a new repository on your own account. It
-   gives you the right README layout and an MIT license.
-2. Fill in the README: what it does, what it does not do, setup steps, and a note on
-   where client data goes.
-3. Make the repository public so others can open it.
-4. Send the link to Rebecca, or post it in the Lab, with one sentence on what it
-   does. We will add it to Member builds on the Lab profile.
-
-Never commit real client data. Use sample or anonymized data. The licensed
-practitioner reviews, decides, and signs.
-
 ## A note on client data
 
 Many Lab builds run locally so your data stays on your machine. Before you put any
 real client information into a tool, confirm where that data goes. When in doubt,
 use sample or anonymized data first. The licensed practitioner reviews, decides,
 and signs.
+
+## Built something?
+
+If you have a build you would like to add to the Lab, let us know and we will help
+you share it.
